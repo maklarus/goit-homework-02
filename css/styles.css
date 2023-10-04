@@ -1,0 +1,122 @@
+body {
+    font-family: Roboto, sans-serif;
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+h1 {
+    color: white;
+font-size: 56px;
+font-weight: 700;
+line-height: 1.1;
+letter-spacing: 1.12px;
+}
+
+h3 {
+    color: #2E2F42;
+font-size: 20px;
+font-family: Roboto;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.40px;
+}
+
+ul {
+    list-style: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+/* LOGO-HEADER */
+
+.logo-header {
+color: #4D5AE5;
+font-size: 18px;
+font-family: Raleway;
+font-weight: 700;
+text-transform: uppercase;
+line-height: 1.2;
+letter-spacing: 0.54px;
+}
+
+.logo-header span {
+    color: #2E2F42;
+}
+
+/* NAVIGATE */
+
+.navigate .link {
+    color: #2E2F42;
+    font-weight: 500;
+}
+
+/* CONTACTS */
+
+.contacts .link {
+color: #434455;
+font-style: normal;
+line-height: 1.5;
+letter-spacing: 0.32px;
+}
+
+.contacts .link:hover,
+.contacts .link:focus {
+    color: #404BBF;
+}
+
+/* SECTION-HERO */
+
+.section-hero {
+    background-color: #2E2F42;
+}
+
+.order {
+    color: white;
+    background-color: #4D5AE5;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.64px;
+
+cursor: pointer;
+}
+
+.order:hover,
+.order:focus {
+    background-color: #404BBF;
+}
+
+/* SECTION-ADVANTAGES */
+
+/* SECTION-TEAM */
+
+.section-team {
+    background-color: #F4F4FD;
+}
+
+/* SECTION-PORTFOLIO */
+
+/* LOGO-FOOTER */
+
+.logo-footer {
+    color: #4D5AE5;
+font-size: 18px;
+font-family: Raleway;
+font-weight: 700;
+text-transform: uppercase;
+line-height: 1.2;
+letter-spacing: 0.54px;
+}
+
+.logo-footer span {
+    color: #F4F4FD;
+}
+
+.text {
+    color: #F4F4FD;
+line-height: 1.5;
+letter-spacing: 0.32px;
+}
