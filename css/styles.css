@@ -76,7 +76,7 @@ letter-spacing: 0.32px;
     letter-spacing: 1.12px;
 }
 
-.button1 {
+.btn {
     color: white;
     background-color: #4D5AE5;
 font-size: 16px;
@@ -87,8 +87,8 @@ letter-spacing: 0.64px;
 cursor: pointer;
 }
 
-.button1:hover,
-.button1:focus {
+.btn:hover,
+.btn:focus {
     background-color: #404BBF;
 }
 
