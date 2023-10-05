@@ -76,7 +76,7 @@ letter-spacing: 0.32px;
     letter-spacing: 1.12px;
 }
 
-.button-order {
+.button1 {
     color: white;
     background-color: #4D5AE5;
 font-size: 16px;
@@ -87,14 +87,23 @@ letter-spacing: 0.64px;
 cursor: pointer;
 }
 
-.order:hover,
-.order:focus {
+.button1:hover,
+.button1:focus {
     background-color: #404BBF;
 }
 
 /* SECTION-ADVANTAGES */
 
-.text-advantages {
+.item-advantages .title-item {
+    color: #2E2F42;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.item-advantages .text-item {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
